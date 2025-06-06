@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianze Yang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. student in Computer Science at the University of Georgia, focusing on multimodal learning and explainable AI."
 repository               : "YangTianze009/YangTianze009.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianze Yang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/ytz.jpg"
   bio              : "University of Georgia"
   location         : "Georgia, USA"
   employer         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/tianze-yang-256409253/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
