@@ -28,10 +28,11 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 # 📝 Publications 
 
 [**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**](https://arxiv.org/abs/2506.00698)  
-Tianze Yang*, Yucheng Shi*, Mengnan Du, Xuansheng Wu, Qiaoyu Tan, Jin Sun, Ninghao Liu, **International Conference on Machine Learning (ICML) 2025**
+Tianze Yang\*, Yucheng Shi\*, Mengnan Du, Xuansheng Wu, Qiaoyu Tan, Jin Sun, Ninghao Liu   
+**International Conference on Machine Learning (ICML) 2025**
 
 [**Common Inpainted Objects In-N-Out of Context**](https://arxiv.org/abs/2506.00721)  
-Tianze Yang*, Tyson Jordan*, Ninghao Liu, Jin Sun  
+Tianze Yang\*, Tyson Jordan\*, Ninghao Liu, Jin Sun  
 *Under review*
 
 [**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**](https://arxiv.org/pdf/2502.13233)  
@@ -39,10 +40,11 @@ Yucheng Shi, Tianze Yang, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, Ning
 *Under review*
 
 [**MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical Question Answering**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099378/)  
-Yucheng Shi*, Shaochen Xu*, Tianze Yang*, Zhengliang Liu, Tianming Liu, Xiang Li, Ninghao Liu, **American Medical Informatics Association Annual Symposium (AMIA) 2024**  
+Yucheng Shi*, Shaochen Xu*, Tianze Yang*, Zhengliang Liu, Tianming Liu, Xiang Li, Ninghao Liu  
+**American Medical Informatics Association Annual Symposium (AMIA) 2024**  
 <span style="color:red;">(Distinguished Paper Award)</span>
 
-[**Intent-based deep reinforcement learning for multi-agent informative path planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416797)
+[**Intent-based deep reinforcement learning for multi-agent informative path planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416797)  
 Tianze Yang, Yuhong Cao, Guillaume Sartoretti   
 **International Symposium on Multi-Robot and Multi-Agent Systems (MRS) 2023**
 
