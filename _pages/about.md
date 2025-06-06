@@ -26,6 +26,7 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 - *2024.11*: &nbsp;🏆 Our work received the **Distinguished Paper Award** at **AMIA 2024**.
 
 # 📝 Publications 
+<sub><em>\* denotes equal contribution</em></sub>
 
 [**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**](https://arxiv.org/abs/2506.00698)  
 Tianze Yang\*, Yucheng Shi\*, Mengnan Du, Xuansheng Wu, Qiaoyu Tan, Jin Sun, Ninghao Liu   
@@ -40,7 +41,7 @@ Yucheng Shi, Tianze Yang, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, Ning
 *Under review*
 
 [**MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical Question Answering**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099378/)  
-Yucheng Shi*, Shaochen Xu*, Tianze Yang*, Zhengliang Liu, Tianming Liu, Xiang Li, Ninghao Liu  
+Yucheng Shi\*, Shaochen Xu\*, Tianze Yang\*, Zhengliang Liu, Tianming Liu, Xiang Li, Ninghao Liu  
 **American Medical Informatics Association Annual Symposium (AMIA) 2024**  
 <span style="color:red;">(Distinguished Paper Award)</span>
 
