@@ -72,7 +72,8 @@ Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun
 
 [**Common Inpainted Objects In-N-Out of Context**](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Common_Inpainted_Objects_In-N-Out_of_Context_CVPR_2026_paper.pdf)  
 **Tianze Yang\***, Tyson Jordan\*, Ninghao Liu, Jin Sun  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*  
+<span class="pub-links">[Project Page](https://co-in-co.github.io/)</span>
 </div>
 
 <div class="pub" markdown="1">
