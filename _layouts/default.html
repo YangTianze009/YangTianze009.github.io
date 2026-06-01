@@ -12,30 +12,20 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <nav class="topbar">
-      <div class="topbar__inner">
-        <a class="topbar__brand" href="#about-me">{{ site.title }}</a>
-        <button class="topbar__toggle" aria-label="Toggle menu"
-                onclick="document.querySelector('.topbar__links').classList.toggle('open')">
-          <span></span><span></span><span></span>
-        </button>
-        <div class="topbar__links">
-          {% for link in site.data.navigation.main %}
-            <a href="{{ link.url }}">{{ link.title }}</a>
-          {% endfor %}
-        </div>
-      </div>
-    </nav>
-
-    {% include hero.html %}
-
-    <main class="container">
-      <article class="page__content" itemscope itemtype="http://schema.org/CreativeWork">
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        {{ content }}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
       </article>
-    </main>
+    </div>
 
     {% include scripts.html %}
 
