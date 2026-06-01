@@ -107,3 +107,111 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   Homepage polish — refined & minimal
+   ========================================================================== */
+
+/* Section headers (🔥 News, 📝 Publications, ...) get a subtle accent rule */
+.page__content {
+    h1 {
+        padding-bottom: .25em;
+        border-bottom: 2px solid rgba($accent, .14);
+    }
+}
+
+/* Research-interest tags under the intro */
+.interests {
+    margin: .8em 0 1.6em;
+
+    .tag {
+        display: inline-block;
+        margin: 0 .45em .5em 0;
+        padding: .22em .8em;
+        font-size: .78em;
+        font-weight: 600;
+        line-height: 1.4;
+        color: $accent;
+        background: rgba($accent, .08);
+        border: 1px solid rgba($accent, .2);
+        border-radius: 999px;
+        letter-spacing: .01em;
+    }
+}
+
+/* Publication entries as soft cards with a gentle hover lift */
+.pub {
+    padding: 1em 1.15em .9em;
+    margin: .85em 0;
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    background: #fff;
+    transition: box-shadow .18s ease, border-color .18s ease, transform .18s ease;
+
+    &:hover {
+        border-color: rgba($accent, .35);
+        box-shadow: 0 6px 22px rgba(0, 0, 0, .07);
+        transform: translateY(-2px);
+    }
+
+    p { margin: .3em 0; }
+
+    /* author names — your own name (bold) gets the accent */
+    strong { color: $accent; }
+}
+
+/* Venue badges */
+.badge-venue {
+    display: inline-block;
+    margin-bottom: .4em;
+    padding: .14em .62em;
+    font-size: .7em;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 6px;
+    vertical-align: middle;
+}
+
+.v-cvpr   { background: #6d28d9; } /* purple */
+.v-icml   { background: #2c5aa0; } /* blue   */
+.v-iclr   { background: #0e7490; } /* teal   */
+.v-neurips{ background: #0f766e; }
+.v-amia   { background: #b45309; } /* amber  */
+.v-icra,
+.v-mrs    { background: #047857; } /* green  */
+.v-review { background: #6b7280; } /* gray   */
+
+/* Award note */
+.award {
+    color: #b91c1c;
+    font-weight: 600;
+}
+
+/* Project / paper link buttons */
+.pub-links {
+    a {
+        display: inline-block;
+        margin: .35em .45em 0 0;
+        padding: .2em .75em;
+        font-size: .8em;
+        font-weight: 600;
+        color: $accent;
+        border: 1px solid rgba($accent, .35);
+        border-radius: 6px;
+        text-decoration: none;
+        transition: background .15s ease, color .15s ease;
+
+        &:hover {
+            background: $accent;
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+}
+
+/* News list — a touch more breathing room */
+.news-list {
+    li { margin-bottom: .45em; line-height: 1.6; }
+}
