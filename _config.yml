@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianze Yang"
-description              : "Ph.D. student in Computer Science at the University of Georgia, focusing on multimodal learning and explainable AI."
+description              : "Multimodal learning, vision-language models, and model interpretability."
 repository               : "YangTianze009/YangTianze009.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianze Yang"
   avatar           : "images/ytz.jpg"
-  bio              : "University of Georgia"
-  location         : "Georgia, USA"
+  bio              : "Ph.D. Student · University of Georgia"
+  location         : "Athens, Georgia, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=xxIfWaoAAAAJ"

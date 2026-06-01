@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in Computer Science at the University of Georgia, advised by Dr. Jin Sun and Dr. Ninghao Liu. My research centers on multimodal learning, vision-language models, and model interpretability, with the goal of building multimodal models that are more capable, reliable, and interpretable in real-world scenarios.
+<div class="hero-card" markdown="1">
+
+I am a **third-year Ph.D. student** in Computer Science at the **University of Georgia**, advised by Dr. Jin Sun and Dr. Ninghao Liu. My research centers on multimodal learning, vision-language models, and model interpretability, with the goal of building multimodal models that are more capable, reliable, and interpretable in real-world scenarios.
 
 Prior to my Ph.D., I received my Master's degree from the National University of Singapore, where I was advised by Dr. Guillaume Sartoretti and worked on topics at the intersection of robotics and machine learning.
 
@@ -28,12 +30,14 @@ Prior to my Ph.D., I received my Master's degree from the National University of
   <span class="tag">Model Interpretability</span>
 </div>
 
+</div>
+
 # 🔥 News
-<div class="news-list" markdown="1">
-- *2026.05*: &nbsp;🎉🎉 Our paper *RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers* has been accepted to **ICML 2026**!
-- *2026.02*: &nbsp;🎉🎉 Our paper *Common Inpainted Objects In-N-Out of Context* has been accepted to **CVPR 2026**!
-- *2025.05*: &nbsp;🎉🎉 Our paper *Concept-Centric Token Interpretation for Vector-Quantized Generative Models* has been accepted to **ICML 2025**!
-- *2024.11*: &nbsp;🏆 Our work received the **Distinguished Paper Award** at **AMIA 2024**.
+<div class="timeline news" markdown="1">
+- <span class="t-date">2026.05</span> Our paper *RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers* was accepted to **ICML 2026** 🎉
+- <span class="t-date">2026.02</span> Our paper *Common Inpainted Objects In-N-Out of Context* was accepted to **CVPR 2026** 🎉
+- <span class="t-date">2025.05</span> Our paper *Concept-Centric Token Interpretation for Vector-Quantized Generative Models* was accepted to **ICML 2025** 🎉
+- <span class="t-date">2024.11</span> Received the **Distinguished Paper Award** at **AMIA 2024** 🏆
 </div>
 
 # 📝 Publications 
@@ -80,10 +84,11 @@ Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun
 </div>
 
 <div class="pub" markdown="1">
-<span class="badge-venue v-review">Under Review</span>
+<span class="badge-venue v-bibm">BIBM 2025</span>
 
 [**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**](https://arxiv.org/pdf/2502.13233)  
-Yucheng Shi, **Tianze Yang**, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, Ninghao Liu
+Yucheng Shi, **Tianze Yang**, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, Ninghao Liu  
+*IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2025*
 </div>
 
 <div class="pub" markdown="1">
@@ -139,10 +144,17 @@ Chengyang He, **Tianze Yang**, Tanishq Duhan, Yutong Wang, Guillaume Sartoretti
 
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 📖 Educations
-- *2023.08 – Present*, Ph.D. in Computer Science, University of Georgia  
-- *2021.08 – 2023.06*, M.Eng. in Mechanical Engineering, National University of Singapore  
-- *2016.09 – 2020.06*, B.Eng. in Mechanical Engineering, Shandong University
+# 💼 Internships
+<div class="timeline" markdown="1">
+- <span class="t-date">2026 Summer</span> **Research Intern** · Nokia · Sunnyvale, CA
+</div>
+
+# 🎓 Education
+<div class="timeline" markdown="1">
+- <span class="t-date">2023.08 – Present</span> **Ph.D. in Computer Science** · University of Georgia
+- <span class="t-date">2021.08 – 2023.06</span> **M.Eng. in Mechanical Engineering** · National University of Singapore
+- <span class="t-date">2016.09 – 2020.06</span> **B.Eng. in Mechanical Engineering** · Shandong University
+</div>
 
 [//]: # (# 💬 Invited Talks)
 
@@ -153,3 +165,7 @@ Chengyang He, **Tianze Yang**, Tanishq Duhan, Yutong Wang, Guillaume Sartoretti
 [//]: # (# 💻 Internships)
 
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+
+<div class="site-footer">
+  © Tianze Yang · Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+</div>
