@@ -49,7 +49,16 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 [**AnyJev Technical Report**](https://arxiv.org/abs/2610.00831)  
 Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Liangjie Hong, Ninghao Liu, Liang Wu  
 *arXiv preprint arXiv:2610.00831, 2026*  
-<span class="pub-links">[Paper](https://arxiv.org/abs/2610.00831) · [Code](https://github.com/nokia-applied-research/AnyJev)</span>
+<span class="pub-links">[Paper](https://arxiv.org/abs/2610.00831) · [Code](https://github.com/nokia-applied-research/AnyJev) · ~1.3k GitHub stars (Oct. 14, 2026)</span>
+</div>
+
+<div class="pub" markdown="1">
+<span class="badge-venue v-review">arXiv 2026</span>
+
+[**Self-Evolving Code-with-Image Reasoning**](https://arxiv.org/abs/2608.11292)  
+**Tianze Yang**, Liang Wu, Ruitong Sun, Yucheng Shi, Yanqiao Wang, Mayank Darbari, Ninghao Liu, Jin Sun, Liangjie Hong  
+*arXiv preprint arXiv:2608.11292, 2026*  
+<span class="pub-links">[Paper](https://arxiv.org/abs/2608.11292)</span>
 </div>
 
 <div class="pub" markdown="1">
