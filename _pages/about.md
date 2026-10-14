@@ -34,6 +34,8 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 
 # 🔥 News
 <div class="timeline news" markdown="1">
+- <span class="t-date">2026.10</span> Our open-source project [**AnyJev**](https://github.com/nokia-applied-research/AnyJev) has reached **~1.3k GitHub stars** (Oct. 14, 2026)! Read the [technical report](https://arxiv.org/abs/2610.00831).
+- <span class="t-date">2026.08</span> Our preprint [**Self-Evolving Code-with-Image Reasoning**](https://arxiv.org/abs/2608.11292) is now available on arXiv.
 - <span class="t-date">2026.05</span> Our paper *RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers* was accepted to **ICML 2026** 🎉
 - <span class="t-date">2026.02</span> Our paper *Common Inpainted Objects In-N-Out of Context* was accepted to **CVPR 2026** 🎉
 - <span class="t-date">2025.05</span> Our paper *Concept-Centric Token Interpretation for Vector-Quantized Generative Models* was accepted to **ICML 2025** 🎉
