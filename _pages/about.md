@@ -34,7 +34,7 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 
 # 🔥 News
 <div class="timeline news" markdown="1">
-- <span class="t-date">2026.10</span> Our open-source project [**AnyJev**](https://github.com/nokia-applied-research/AnyJev) has reached **~1.3k GitHub stars** (Oct. 14, 2026)! Read the [technical report](https://arxiv.org/abs/2610.00831).
+- <span class="t-date">2026.10</span> Our open-source project [**AnyJev**](https://github.com/nokia-applied-research/AnyJev) has reached <span class="star-pill">★ ~1.3k GitHub stars</span> <span class="news-note">(Oct. 14, 2026)</span>! Read the [technical report](https://arxiv.org/abs/2610.00831).
 - <span class="t-date">2026.08</span> Our preprint [**Self-Evolving Code-with-Image Reasoning**](https://arxiv.org/abs/2608.11292) is now available on arXiv.
 - <span class="t-date">2026.05</span> Our paper *RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers* was accepted to **ICML 2026** 🎉
 - <span class="t-date">2026.02</span> Our paper *Common Inpainted Objects In-N-Out of Context* was accepted to **CVPR 2026** 🎉
@@ -45,13 +45,14 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 # 📝 Publications 
 <sub><em>\* denotes equal contribution</em></sub>
 
-<div class="pub" markdown="1">
-<span class="badge-venue v-review">arXiv 2026</span>
+<div class="pub pub-report" markdown="1">
+<span class="badge-venue v-report">Technical Report · 2026</span>
 
 [**AnyJev Technical Report**](https://arxiv.org/abs/2610.00831)  
 Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Liangjie Hong, Ninghao Liu, Liang Wu  
-*arXiv preprint arXiv:2610.00831, 2026*  
-<span class="pub-links">[Paper](https://arxiv.org/abs/2610.00831) · [Code](https://github.com/nokia-applied-research/AnyJev) · ~1.3k GitHub stars (Oct. 14, 2026)</span>
+*Technical Report, 2026*  
+<span class="pub-links">[Paper](https://arxiv.org/abs/2610.00831) · [Code](https://github.com/nokia-applied-research/AnyJev)</span>
+<span class="report-metric">★ ~1.3k GitHub stars <small>as of Oct. 14, 2026</small></span>
 </div>
 
 <div class="pub" markdown="1">
