@@ -22,7 +22,7 @@ redirect_from:
 <p class="eyebrow">Multimodal learning · Visual reasoning</p>
 <h1 class="hero-title">Understanding &amp; improving<br><em>multimodal intelligence.</em></h1>
 
-I am a **third-year Ph.D. student** in Computer Science at the **University of Georgia**, advised by Dr. Jin Sun and Dr. Ninghao Liu. My research centers on multimodal learning, vision-language models, and model interpretability, with the goal of building multimodal models that are more capable, reliable, and interpretable in real-world scenarios.
+I am a **fourth-year Ph.D. student** in Computer Science at the **University of Georgia**, advised by Dr. Jin Sun and Dr. Ninghao Liu. My research centers on multimodal learning, vision-language models, and model interpretability, with the goal of building multimodal models that are more capable, reliable, and interpretable in real-world scenarios.
 
 Prior to my Ph.D., I received my Master's degree from the National University of Singapore, where I was advised by Dr. Guillaume Sartoretti and worked on topics at the intersection of robotics and machine learning.
 
