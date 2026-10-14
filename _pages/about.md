@@ -44,6 +44,15 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 <sub><em>\* denotes equal contribution</em></sub>
 
 <div class="pub" markdown="1">
+<span class="badge-venue v-review">arXiv 2026</span>
+
+[**AnyJev Technical Report**](https://arxiv.org/abs/2610.00831)  
+Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Liangjie Hong, Ninghao Liu, Liang Wu  
+*arXiv preprint arXiv:2610.00831, 2026*  
+<span class="pub-links">[Paper](https://arxiv.org/abs/2610.00831) · [Code](https://github.com/nokia-applied-research/AnyJev)</span>
+</div>
+
+<div class="pub" markdown="1">
 <span class="badge-venue v-review">Under Review</span>
 
 [**TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL**](https://tron-rl.github.io/)  
