@@ -5,19 +5,19 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile-card">
 
   <div class="profile-avatar">
-    <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
+    <img src="{{ author.avatar }}" width="240" height="280" alt="{{ author.name }}" itemprop="image">
   </div>
 
-  <h3 class="profile-name" itemprop="name">{{ author.name }}</h3>
+  <h2 class="profile-name" itemprop="name">{{ author.name }}</h2>
   {% if author.bio %}<p class="profile-affil">{{ author.bio }}</p>{% endif %}
-  {% if site.description %}<p class="profile-tagline">{{ site.description }}</p>{% endif %}
+  <p class="profile-label">Researcher in multimodal AI</p>
 
   <ul class="profile-meta">
     {% if author.location %}<li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>{% endif %}
     {% if author.employer %}<li><i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ author.employer }}</li>{% endif %}
   </ul>
 
-  <div class="social-row">
+  <div class="social-row" aria-label="Profile links">
     {% if author.email %}
       <a href="mailto:{{ author.email }}" title="Email" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
     {% endif %}

@@ -1,16 +1,9 @@
-<div class="masthead">
+<header class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{{ site.title | default: "Home" }}</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+    <a class="site-brand" href="#top" aria-label="Tianze Yang home"><span class="brand-mark" aria-hidden="true">TY</span><span>{{ site.title }}</span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      {% for link in site.data.navigation.main %}<a href="{{ link.url }}">{{ link.title }}</a>{% endfor %}
+    </nav>
+    <a class="header-contact" href="mailto:{{ site.author.email }}">Let's connect <span aria-hidden="true">↗</span></a>
   </div>
-</div>
+</header>
