@@ -158,7 +158,7 @@ Chengyang He, **Tianze Yang**, Tanishq Duhan, Yutong Wang, Guillaume Sartoretti
 <span class="anchor" id="-internships"></span>
 <h2 class="section-heading" id="internships"><span class="section-number">03</span> Research experience</h2>
 <div class="timeline" markdown="1">
-- <span class="t-date">2026 Summer</span> **Research Intern** · Nokia · Sunnyvale, CA
+- <span class="t-date">2026 Summer–Fall</span> **Research Intern** · Nokia · Sunnyvale, CA
 </div>
 
 <span class="anchor" id="-education"></span>
