@@ -39,6 +39,7 @@ Prior to my Ph.D., I received my Master's degree from the National University of
 <span class="anchor" id="-news"></span>
 <h2 class="section-heading" id="news"><span class="section-number">01</span> Latest news</h2>
 <div class="timeline news" markdown="1">
+- <span class="t-date">2026.10</span> Our paper [**Self-Improving Small Object Grounding in LVLMs**](https://groundvlm.github.io/) was accepted to **WACV 2027** 🎉
 - <span class="t-date">2026.10</span> Our open-source project [**AnyJev**](https://github.com/nokia-applied-research/AnyJev) has reached <span class="star-pill">★ ~1.3k GitHub stars</span> <span class="news-note">(Oct. 14, 2026)</span>! Read the [technical report](https://arxiv.org/abs/2610.00831).
 - <span class="t-date">2026.08</span> Our preprint [**Self-Evolving Code-with-Image Reasoning**](https://arxiv.org/abs/2608.11292) is now available on arXiv.
 - <span class="t-date">2026.05</span> Our paper *RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers* was accepted to **ICML 2026** 🎉
@@ -83,11 +84,12 @@ Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Li
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
-<span class="badge-venue v-review">Under Review</span>
+<span class="badge-venue v-wacv">WACV 2027</span>
 
 ### [**Self-Improving Small Object Grounding in LVLMs**](https://groundvlm.github.io/)
 
 **Tianze Yang**, Yucheng Shi, Ruitong Sun, Ninghao Liu, Jin Sun  
+*WACV 2027*  
 <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span>
 </div>
 
