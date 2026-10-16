@@ -89,7 +89,7 @@ Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Li
 ### [**Self-Improving Small Object Grounding in LVLMs**](https://groundvlm.github.io/)
 
 **Tianze Yang**, Yucheng Shi, Ruitong Sun, Ninghao Liu, Jin Sun  
-*WACV 2027*  
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027*  
 <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span>
 </div>
 
