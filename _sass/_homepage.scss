@@ -91,6 +91,8 @@ h1::before, .anchor::before, .page__content #about-me::before { display: none; }
 .pub p { font-size: 12px; line-height: 1.85; margin: 0; }
 .pub p strong { color: $ink; }
 .pub p > em { font-size: 11px; color: $muted; }
+.pub-venue { display: block; margin-top: 6px; font-size: 13px; line-height: 1.65; font-style: normal; font-weight: 500; color: $ink; }
+.pub p .pub-venue strong { color: $green; font-weight: 700; white-space: nowrap; }
 .badge-venue { display: inline-block; font-size: 9px; line-height: 1.4; letter-spacing: .07em; text-transform: uppercase; font-weight: 600; padding: 4px 7px; border-radius: 3px; }
 .v-review { color: #606773; background: #eff1f4; }
 .v-cvpr { color: #5e4882; background: #eee9f6; }

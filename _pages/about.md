@@ -89,7 +89,7 @@ Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Li
 ### [**Self-Improving Small Object Grounding in LVLMs**](https://groundvlm.github.io/)
 
 **Tianze Yang**, Yucheng Shi, Ruitong Sun, Ninghao Liu, Jin Sun  
-*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027*  
+<span class="pub-venue">IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV) 2027</strong></span>
 <span class="pub-links">[Project Page](https://groundvlm.github.io/)</span>
 </div>
 
@@ -99,7 +99,7 @@ Jiamu Zhang, **Tianze Yang**, Yucheng Shi, Evan Chen, Zixiang Nie, Kelly Wan, Li
 ### **RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers**
 
 Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun  
-*International Conference on Machine Learning (ICML) 2026*
+<span class="pub-venue">International Conference on Machine Learning <strong>(ICML) 2026</strong></span>
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
@@ -108,7 +108,7 @@ Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun
 ### [**Common Inpainted Objects In-N-Out of Context**](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Common_Inpainted_Objects_In-N-Out_of_Context_CVPR_2026_paper.pdf)
 
 **Tianze Yang\***, Tyson Jordan\*, Ninghao Liu, Jin Sun  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*  
+<span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) 2026</strong></span>
 <span class="pub-links">[Project Page](https://co-in-co.github.io/)</span>
 </div>
 
@@ -118,7 +118,7 @@ Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun
 ### [**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**](https://arxiv.org/abs/2506.00698)
 
 **Tianze Yang\***, Yucheng Shi\*, Mengnan Du, Xuansheng Wu, Qiaoyu Tan, Jin Sun, Ninghao Liu  
-*International Conference on Machine Learning (ICML) 2025*
+<span class="pub-venue">International Conference on Machine Learning <strong>(ICML) 2025</strong></span>
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
@@ -127,7 +127,7 @@ Ruitong Sun, **Tianze Yang**, Wei Niu, Jin Sun
 ### [**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**](https://arxiv.org/pdf/2502.13233)
 
 Yucheng Shi, **Tianze Yang**, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, Ninghao Liu  
-*IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2025*
+<span class="pub-venue">IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM) 2025</strong></span>
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
@@ -136,7 +136,7 @@ Yucheng Shi, **Tianze Yang**, Canyu Chen, Quanzheng Li, Tianming Liu, Xiang Li, 
 ### [**MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical Question Answering**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099378/)
 
 Yucheng Shi\*, Shaochen Xu\*, **Tianze Yang\***, Zhengliang Liu, Tianming Liu, Xiang Li, Ninghao Liu  
-*American Medical Informatics Association Annual Symposium (AMIA) 2024* <span class="award">(Distinguished Paper Award)</span>
+<span class="pub-venue">American Medical Informatics Association Annual Symposium <strong>(AMIA) 2024</strong></span> <span class="award">(Distinguished Paper Award)</span>
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
@@ -145,7 +145,7 @@ Yucheng Shi\*, Shaochen Xu\*, **Tianze Yang\***, Zhengliang Liu, Tianming Liu, X
 ### [**Alpha: Attention-based long-horizon pathfinding in highly-structured areas**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611301)
 
 Chengyang He, **Tianze Yang**, Tanishq Duhan, Yutong Wang, Guillaume Sartoretti  
-*IEEE International Conference on Robotics and Automation (ICRA) 2024*
+<span class="pub-venue">IEEE International Conference on Robotics and Automation <strong>(ICRA) 2024</strong></span>
 </div>
 
 <div class="pub" data-kind="paper" markdown="1">
@@ -154,7 +154,7 @@ Chengyang He, **Tianze Yang**, Tanishq Duhan, Yutong Wang, Guillaume Sartoretti
 ### [**Intent-based deep reinforcement learning for multi-agent informative path planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416797)
 
 **Tianze Yang**, Yuhong Cao, Guillaume Sartoretti  
-*International Symposium on Multi-Robot and Multi-Agent Systems (MRS) 2023*
+<span class="pub-venue">International Symposium on Multi-Robot and Multi-Agent Systems <strong>(MRS) 2023</strong></span>
 </div>
 
 <span class="anchor" id="-internships"></span>
